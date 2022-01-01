@@ -1,0 +1,34 @@
+.homeName {
+    text-align: center;
+    font-size: 12vw;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight:600;
+    color:#00458B;
+    text-shadow: 0 0.2vw #3FD2C7; 
+  }
+.description {
+    text-align:left;
+}
+.welcome {
+    text-align:right;
+}
+  
+h1,h2 {
+    font-weight: 200;
+    margin: 0.4em 0;
+    color:#00458B;
+  }
+h3 { 
+    font-size: 3.5em; 
+    font-family:'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #00458B;
+}
+.socials{
+    display:inline;
+    padding-inline-end: 5%;
+    padding-inline-start: 5%;
+    animation: transform 0.2s;
+  }
+.socials:hover{
+  transform: scale(1.2);
+}

@@ -32,8 +32,8 @@ const [Projects, setProjects] = React.useState(null);
       <><div class="container-fluid banner py-5">
       <h1 class="display-2 py-5 text-center heading">My Projects</h1>
       </div>
-      <div class="card-deck">
-      <div class= "container-fluid cards mb-5">
+      <div class="container">
+          <div class= "cards mb-5">
             {
                  Projects.map((record) => (
                     <Project 

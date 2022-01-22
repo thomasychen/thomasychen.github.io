@@ -17,7 +17,7 @@ class Home extends Component{
                             <div class="col-sm-2 welcome"></div>
                             <div class="col-sm-10 description"> 
                                 <link href="https://fonts.googleapis.com/css?family=Raleway:200,100,400" rel="stylesheet" type="text/css" />
-                                    <h3> Welcome!:
+                                    <h3> Welcome!
                                         <span
                                             class="txt-rotate mb-4"
                                             data-period="2000"

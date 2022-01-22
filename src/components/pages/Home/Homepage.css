@@ -27,7 +27,7 @@ h3 {
     display:inline;
     padding-inline-end: 5%;
     padding-inline-start: 5%;
-    animation: transform 0.2s;
+    animation: transform 2s;
   }
 .socials:hover{
   transform: scale(1.2);

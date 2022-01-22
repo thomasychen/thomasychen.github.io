@@ -12,8 +12,8 @@ export default function Project(props){
     const descrip = props.descrip
     const link = props.link
     return (
-        <div class="col-md-4 my-4">
-        <div data-aos="fade-up" class="card h-100 border-info my-3 mx-3">
+        <div class="col-lg-4 my-4">
+        <div data-aos="fade-up" class="card h-100 border border-white my-3 mx-4">
             <img src={image} class="card-img-top" alt="pic"></img>
         <div class="card-body">
             <h5 class="card-title projName px-3 pt-3">{name} </h5>

@@ -11,16 +11,16 @@ function Navbar(){
             </button>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-2 mt-2 mb-lg-0">
-                <li className="nav-item">
+                <li className="nav-item mx-auto">
                 <Link className="nav-link active" aria-current="page" to="/">Home</Link>
                 </li>
-                <li className="nav-item">
+                <li className="nav-item mx-auto">
                 <Link className="nav-link" to="/about">About</Link>
                 </li>
-                <li className="nav-item">
+                <li className="nav-item mx-auto">
                 <Link className="nav-link" to= "/projects">Projects</Link>
                 </li>
-                <li className="nav-item">
+                <li className="nav-item mx-auto">
                 <Link className="nav-link" to= "/experiences">Experiences</Link>
                 </li>
                 <a className="btn btn-primary customBtn" href="https://airtable.com/shrmd9pYDGZusEGcc" target=" Blank"> Contact Me</a>
